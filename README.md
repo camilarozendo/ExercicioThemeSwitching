@@ -48,6 +48,10 @@ Essa é uma aplicação React que permite aos usuários alternar entre diferente
 * Os usuários podem alternar entre temas clicando nos botões de tema.
 * O tema selecionado é armazenado no armazenamento local, garantindo que persista mesmo após a recarga da página.
 
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
 #### Header and Footer:
 * A aplicação possui um cabeçalho com o título "Game of Thrones Quotes".
 * O rodapé contém um link para o perfil do criador no LinkedIn e segue o tema escolhido pelo usuário.
