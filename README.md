@@ -5,7 +5,7 @@
     <h1 align="center">Theme Switching</h1>
 </p>
 <p align="center">
-    <em>Exercício para a disciplina de Programação Web com Node.js do curso de Desenvolvimento Web Front-End - PUC Minas</em>
+    <em>Exercício para a disciplina de Técnicas Avançadas de CSS do curso de Desenvolvimento Web Front-End - PUC Minas</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/camilarozendo/ExercicioThemeSwitching?style=default&color=0080ff" alt="license">
